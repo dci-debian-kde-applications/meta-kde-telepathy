@@ -41,8 +41,7 @@ Description: metapackage for installing the basic KDE Telepathy components
 
 Package: kde-telepathy
 Architecture: all
-Depends: kde-telepathy-call-ui (>= ${ktp:Version}),
-         kde-telepathy-desktop-applets (>= ${ktp:Version}),
+Depends: kde-telepathy-desktop-applets (>= ${ktp:Version}),
          kde-telepathy-filetransfer-handler (>= ${ktp:Version}),
          kde-telepathy-minimal (= ${binary:Version}),
          kde-telepathy-send-file (>= ${ktp:Version}),
