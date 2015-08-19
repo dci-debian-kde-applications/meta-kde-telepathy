@@ -6,7 +6,7 @@ Uploaders: Diane Trout <diane@ghic.org>, Michał Zając <quintasan@kubuntu.org>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.6
 Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/kde-telepathy/meta-kde-telepathy.git
-Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-extras/kde-telepathy/meta-kde-telepathy.git
+Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/kde-extras/kde-telepathy/meta-kde-telepathy.git
 
 Package: kde-telepathy-minimal
 Architecture: all
